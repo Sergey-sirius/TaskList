@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "tasklist project used fastapi"
+version = "0.1.0"
+description = ""
+authors = ["Sergey Kha <2hotab2@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
